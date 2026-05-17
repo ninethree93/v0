@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'VELOX | Race Performance Equipment',
+  title: 'VORT VENTO | Race Performance Equipment',
   description: 'Premium triathlon and cycling performance equipment. Built for race conditions.',
   generator: 'v0.app',
   icons: {
