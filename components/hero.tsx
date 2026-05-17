@@ -22,7 +22,7 @@ export function Hero() {
             Race Performance Equipment
           </p>
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-light text-primary-foreground leading-[1.1] tracking-tight">
-            <span className="block">No bottle ejection.</span>
+            <span className="block">Engineered for Free Speed.</span>
             <span className="block mt-2 md:mt-4 text-primary-foreground/80">Built for race conditions.</span>
           </h1>
         </div>
