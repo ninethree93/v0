@@ -38,7 +38,7 @@ export function Contact() {
             >
               <div className="flex items-center gap-4">
                 <Mail className="w-5 h-5" />
-                <span className="text-lg">hello@veloxracing.com</span>
+                <span className="text-lg">vortvento@voutlook.com</span>
               </div>
               <ArrowUpRight className="w-5 h-5 text-muted-foreground group-hover:text-foreground transition-colors" />
             </a>
