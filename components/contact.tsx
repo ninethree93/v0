@@ -20,20 +20,20 @@ export function Contact() {
 
           <div className="flex flex-col justify-center gap-6">
             <a 
-              href="https://instagram.com/veloxracing" 
+              href="https://instagram.com/vort_vento" 
               target="_blank" 
               rel="noopener noreferrer"
               className="group flex items-center justify-between border-b border-border pb-6 hover:border-foreground transition-colors"
             >
               <div className="flex items-center gap-4">
                 <Instagram className="w-5 h-5" />
-                <span className="text-lg">@veloxracing</span>
+                <span className="text-lg">@Vort Vento</span>
               </div>
               <ArrowUpRight className="w-5 h-5 text-muted-foreground group-hover:text-foreground transition-colors" />
             </a>
 
             <a 
-              href="mailto:hello@veloxracing.com"
+              href="mailto:vort vento@outlook.com"
               className="group flex items-center justify-between border-b border-border pb-6 hover:border-foreground transition-colors"
             >
               <div className="flex items-center gap-4">
